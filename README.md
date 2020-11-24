@@ -8,8 +8,8 @@ A web tool to import csv files.
 
 ## Installation
 
-1. `git clone git@github.com:Gopikapayoor/GrootanServer.git`
-1. `cd GrootanServer`
-1. `npm install`
-1. `npm start`
-1. Open web browser at url `http://localhost:1234`
+1. Download Xampp/Wamp or any server.
+1. Copy and paste the code into htdocs for Xampp.
+1. Launch the server control panel.
+1. Start the server.
+1. Open web browser at url `http://localhost/GrootanClient/`
